@@ -13,6 +13,6 @@ Download and install docker in your local machine by visting following
 https://www.docker.com/get-started/
 
 Once download and installed 
-Go to root of the project and run following command to get app up and running
+Go to root of the project and run following command to get app up and running.
 
 ```docker-compose up```
